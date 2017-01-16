@@ -1,0 +1,3 @@
+#!/bin/sh
+
+pdflatex /mnt/c/Users/visesha/Work/Tools/vplotlib/compile/wrapper.tex
